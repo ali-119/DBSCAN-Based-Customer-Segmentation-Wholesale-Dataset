@@ -26,7 +26,7 @@ This type of segmentation is widely used in real-world applications like custome
 
 # Dataset
 - **Name:** Wholesale Customers Dataset  
-- **Source:** UCI Machine Learning Repository  
+- **Source:** [Data set](https://archive.ics.uci.edu/dataset/292/wholesale+customers)
 - **Records:** 440 customers  
 - **Features:**  
   - Channel (Hotel/Restaurant/Retail)  
